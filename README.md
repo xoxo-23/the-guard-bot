@@ -75,7 +75,7 @@ If used by reply, `/ban` and `/warn` would remove the replied-to message.
 
 The bot is still in beta phase so feel free to [open issues](https://github.com/thedevs-network/the-guard-bot/issues/new) and ask for features.
 
-[**Roadmap**](https://github.com/TheDevs-Network/the-guard-bot/projects/1)
+[**Roadmap**](https://github.com/xoxo-23/the-guard-bot/projects/1)
 
 ---
 
